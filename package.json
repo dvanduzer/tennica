@@ -1,7 +1,7 @@
 {
-  "name": "hellonode",
-  "version": "1.0.0",
-  "description": "",
+  "name": "dvd-tennica-net",
+  "version": "1.0.2",
+  "description": "## A Fly Example",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fly-examples/hellonode.git"
+    "url": "https://github.com/dvanduzer/tennica.git"
   },
-  "author": "",
+  "author": "david van duzer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fly-examples/hellonode/issues"
+    "url": "https://github.com/dvanduzer/tennica/issues"
   },
   "homepage": "https://github.com/fly-examples/hellonode#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "dvd.tennica.net"
+  ]
 }
